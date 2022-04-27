@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divineiloh
-- 👀 I’m interested in cloud computing and analytics
+- 👀 I’m interested in business development, cloud computing and analytics projects.
 - 🌱 I’m currently learning python and java programming
-- 📫 How to reach me divineiloh@gmail.com
+- 📫 You can reach me via divine.n.iloh@gmail.com
 
 <!---
 divineiloh/divineiloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
